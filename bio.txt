@@ -2,3 +2,4 @@ name
 birthday
 school
 I like lemon
+Also watermelon
